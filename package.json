@@ -29,7 +29,7 @@
   "devDependencies": {
     "electron": "^40.1.0",
     "electron-builder": "^21.2.0",
-    "jspm": "^4.3.0",
+    "jspm": "^4.4.0",
     "quickly-copy-file": "^1.0.0"
   },
   "jspm": {
