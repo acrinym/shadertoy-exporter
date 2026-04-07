@@ -27,7 +27,7 @@
     "rimraf-promise": "^2.0.0"
   },
   "devDependencies": {
-    "electron": "^40.1.0",
+    "electron": "^39.8.5",
     "electron-builder": "^21.2.0",
     "jspm": "^4.4.0",
     "quickly-copy-file": "^1.0.0"
