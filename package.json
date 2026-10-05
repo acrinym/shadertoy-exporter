@@ -28,7 +28,7 @@
   },
   "devDependencies": {
     "electron": "^41.10.6",
-    "electron-builder": "^21.2.0",
+    "electron-builder": "^26.15.3",
     "jspm": "^4.4.0",
     "quickly-copy-file": "^1.0.0"
   },
